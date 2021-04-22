@@ -104,6 +104,4 @@ dist
 .tern-port
 
 node_modules/
-.cache
-dist/
-.DS_Store
+jspm_packages/
